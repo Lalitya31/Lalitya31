@@ -7,6 +7,7 @@
 - 👨‍💻 Full-stack developer in the making  
 - 🎨 Passion for **UI/UX design** + building beautiful, functional apps  
 - 💡 Currently exploring **frontend → backend → deployment**
+- _love being an all rounder not ony into tech but every other extra curricular activity._
 
   ## 🛠️ Tech Stack
 
