@@ -4,7 +4,7 @@
 **"It’s not who I am underneath, but what I do that defines me."** – Batman Begins  
 
 ## 🎬 About Me
--👨‍💻 Full-stack developer in the making  
+- 👨‍💻 Full-stack developer in the making  
 - 🎨 Passion for **UI/UX design** + building beautiful, functional apps  
 - 💡 Currently exploring **frontend → backend → deployment**
 
