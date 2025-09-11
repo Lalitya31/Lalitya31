@@ -1,5 +1,4 @@
 
-![Banner](https://chatgpt.com/s/m_68c268dfd970819183aa521f96ffc2e3)
 
 ## Hi there 👋
 **"It’s not who I am underneath, but what I do that defines me."** – Batman Begins  
