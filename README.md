@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats (Red Bull Racing Edition 🏎️)
+## 📊 GitHub Stats (RB9 Edition 🏎️)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitya31&show_icons=true&title_color=FFCC00&icon_color=DC0000&text_color=FFFFFF&bg_color=1E2A78)
 ![GitHub Streak](https://streak-stats.demolab.com?user=lalitya31&theme=dark&background=1E2A78&ring=DC0000&fire=FFCC00&currStreakLabel=FFFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitya31&layout=compact&title_color=FFCC00&text_color=FFFFFF&bg_color=1E2A78)
