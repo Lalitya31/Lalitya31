@@ -30,10 +30,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2>📊 GitHub Stats (RB9 Edition 🏎️)</h2>
-
-
-
-
 <p>
   <img src="https://streak-stats.demolab.com?user=lalitya31&theme=dark&background=1E2A78&ring=DC0000&fire=FFCC00&currStreakLabel=FFFFFF&hide_border=true" />
 </p>
