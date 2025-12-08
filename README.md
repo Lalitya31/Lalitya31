@@ -30,12 +30,27 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2>📊 GitHub Stats (RB9 Edition 🏎️)</h2>
-<p>
-  <img src="https://streak-stats.demolab.com?user=lalitya31&theme=dark&background=1E2A78&ring=DC0000&fire=FFCC00&currStreakLabel=FFFFFF&hide_border=true" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lalitya31&show_icons=true&theme=dark&bg_color=1E2A78&title_color=DC0000&text_color=FFFFFF&icon_color=FFCC00&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitya31&layout=compact&theme=dark&bg_color=1E2A78&title_color=DC0000&text_color=FFFFFF&hide_border=true"
+    height="170"
+  />
 </p>
 
-## 🟩 Contributions
-![GitHub Contributions](https://ghchart.rshah.org/2ea44f/lalitya31)
+<h2>🟩 Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2ea44f/lalitya31"
+    alt="GitHub Contributions"
+  />
+</p>
+
 
 
 
