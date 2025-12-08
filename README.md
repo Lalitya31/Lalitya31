@@ -37,8 +37,8 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=lalitya31&theme=dark&background=1E2A78&ring=DC0000&fire=FFCC00&currStreakLabel=FFFFFF&hide_border=true" />
 </p>
-### 🟩 Contributions
 
+## 🟩 Contributions
 ![GitHub Contributions](https://ghchart.rshah.org/2ea44f/lalitya31)
 
 
