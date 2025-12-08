@@ -33,9 +33,6 @@
 
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitya31&layout=compact&theme=dark&bg_color=1E2A78&title_color=DC0000&text_color=FFFFFF&hide_border=true" />
-</p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=lalitya31&theme=dark&background=1E2A78&ring=DC0000&fire=FFCC00&currStreakLabel=FFFFFF&hide_border=true" />
