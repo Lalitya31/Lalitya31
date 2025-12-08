@@ -29,11 +29,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats (RB9 Edition 🏎️)
+<h2>📊 GitHub Stats (RB9 Edition 🏎️)</h2>
 
-![Lalitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitya31&show_icons=true&theme=dark&bg_color=1E2A78&title_color=DC0000&text_color=FFFFFF&icon_color=FFCC00&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitya31&layout=compact&theme=dark&bg_color=1E2A78&title_color=DC0000&text_color=FFFFFF&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=lalitya31&theme=dark&background=1E2A78&ring=DC0000&fire=FFCC00&currStreakLabel=FFFFFF&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitya31&show_icons=true&theme=dark&bg_color=1E2A78&title_color=DC0000&text_color=FFFFFF&icon_color=FFCC00&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitya31&layout=compact&theme=dark&bg_color=1E2A78&title_color=DC0000&text_color=FFFFFF&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=lalitya31&theme=dark&background=1E2A78&ring=DC0000&fire=FFCC00&currStreakLabel=FFFFFF&hide_border=true" />
+</p>
+
 
 
 
