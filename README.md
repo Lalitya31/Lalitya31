@@ -32,9 +32,16 @@
 <h2>📊 GitHub Stats (RB9 Edition 🏎️)</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalitya31&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitya31&theme=github_dark" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lalitya31&show_icons=true&bg_color=1E2A78&title_color=FFCC00&text_color=FFFFFF&icon_color=DC0000&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitya31&layout=compact&bg_color=1E2A78&title_color=FFCC00&text_color=FFFFFF&hide_border=true"
+    height="170"
+  />
 </p>
+
 
 <h2>🟩 Contributions</h2>
 
