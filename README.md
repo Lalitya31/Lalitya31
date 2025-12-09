@@ -32,7 +32,8 @@ and extracurricular pursuits as well._
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🟩 Contributions
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalitya31&theme=github-light)
+![GitHub Contributions](https://ghchart.rshah.org/Lalitya31)
+
 
 
 <h2>📊 GitHub Stats </h2>
