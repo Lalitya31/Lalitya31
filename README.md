@@ -31,6 +31,9 @@ and extracurricular pursuits as well._
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+
 <h2>📊 GitHub Stats </h2>
 
 
