@@ -32,7 +32,8 @@ and extracurricular pursuits as well._
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🟩 Contributions
-![Contributions](https://ghchart.rshah.org/00c853/Lalitya31)
+![Contributions](https://ghchart.rshah.org/006d32/Lalitya31)
+
 
 
 
