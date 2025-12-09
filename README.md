@@ -41,14 +41,9 @@ and extracurricular pursuits as well._
 
 
 
-<h2>🟩 Contributions</h2>
+## 📈 Recent Activity
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/2ea44f/lalitya31"
-    alt="GitHub Contributions"
-  />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitya31&theme=github-dark)
 
 
 
