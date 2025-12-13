@@ -31,7 +31,7 @@ and extracurricular pursuits as well._
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Contributions](https://ghchart.rshah.org/006d32/Lalitya31)
+
 
 
 <h2>📊 GitHub Stats </h2>
@@ -42,7 +42,8 @@ and extracurricular pursuits as well._
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitya31&theme=github_dark" height="170"/>
 </p>
 
-
+## 🟩 Contributions
+![Contributions](https://ghchart.rshah.org/2ea44f/Lalitya31)
 
 
 
