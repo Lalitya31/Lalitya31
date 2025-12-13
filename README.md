@@ -31,9 +31,8 @@ and extracurricular pursuits as well._
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-> Contribution snapshot — live graph available below on my profile
+![Contributions](https://ghchart.rshah.org/006d32/Lalitya31)
 
-![Snapshot](https://ghchart.rshah.org/2ea44f/lalitya31)
 
 <h2>📊 GitHub Stats </h2>
 
