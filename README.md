@@ -42,17 +42,6 @@ and extracurricular pursuits as well._
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitya31&theme=github_dark" height="170"/>
 </p>
 
-## 🟩 Contributions
-![Contributions](https://ghchart.rshah.org/2ea44f/Lalitya31)
-
-
-
-
-
-
-
-
-
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitya-dodla-078aa5367/)
