@@ -9,12 +9,6 @@ I’m a frontend-leaning full-stack developer focused on building clean, respons
 - Backend fundamentals and database integration
 - End-to-end workflow: build → test → deploy
 
-### Tech Stack
-**Languages:** JavaScript, Python, C, C++, Java  
-**Frontend:** HTML5, CSS3, JavaScript, Figma  
-**Backend & DB:** Node.js, Express.js, MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code
-
 ### Currently
 - Strengthening backend and API design
 - Building full-stack projects suitable for internships
