@@ -1,6 +1,8 @@
 
 ## Hi, I’m Lalitya 👋
-
+<p align="center">
+  <img src="banner.gif" width="100%" />
+</p>
 I’m a frontend-leaning full-stack developer focused on building clean, responsive, and functional web applications.
 
 ### What I work on
